@@ -1,0 +1,6 @@
+{
+  "name": "Garden State Roofing & Chimney",
+  "description": "Reliable roofing and chimney services in Teaneck, NJ. Quality roof replacements, chimney rebuilds, inspections, and gutter protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

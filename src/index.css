@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Roboto Slab", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+:root {
+  --navy-primary: #0B5CAB;
+  --navy-dark: #0A2A4F;
+  --navy-hover: #08437D;
+  --warm-accent: #E8A33D;
+}
+
+body {
+  font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: #111111;
+  background-color: #FFFFFF;
+}
+
+.font-heading {
+  font-family: "Roboto Slab", Georgia, serif;
+}
